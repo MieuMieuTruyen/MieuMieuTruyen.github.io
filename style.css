@@ -1,0 +1,18 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 0; padding: 0;
+  background: #fff; color: #333;
+}
+.top-menu { background: #333; padding: 10px; }
+.top-menu a { color: #fff; margin: 0 10px; text-decoration: none; }
+.hero { text-align: center; padding: 20px; background: radial-gradient(circle at top, #223, #112); color: #fff; }
+.hero img { max-width: 100%; height: auto; border-radius: 10px; }
+.truyen-list { padding: 10px; }
+.card { margin: 10px auto; max-width: 300px; }
+.card img { width: 100%; border-radius: 10px; }
+.card-info { background: #fff; padding: 10px; border-radius: 0 0 10px 10px; text-align: center; }
+.cover-full { padding: 20px; text-align: center; }
+.cover-full img { max-width: 150px; border-radius: 10px; }
+.btn { display: inline-block; margin: 10px auto; padding: 10px 20px; background: #e91e63; color: #fff; border-radius: 5px; text-decoration: none; }
+.chapter { padding: 20px; line-height: 1.6; }
+.chapter h1 { text-align: center; margin-bottom: 20px; }
